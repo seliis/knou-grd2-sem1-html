@@ -5,7 +5,10 @@
 ### 강 의 실 : 서울지역대학 ZOOM3, ZOOM4, ZOOM5 호
 ### 연 락 처 : 010-4849-4471
 ---
-## GitHub
+## Project Webpage
+```https://seliis.github.io/knou-grd2-sem1-html/```
+
+## GitHub Repository
 ```https://github.com/seliis/knou-grd2-sem1-html.git```
 
 ## Question 1
